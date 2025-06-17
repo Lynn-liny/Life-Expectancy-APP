@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+streamlit
+numpy
+scikit-learn
+ydata-profiling
+streamlit-pandas-profiling
